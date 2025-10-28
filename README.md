@@ -69,9 +69,8 @@ Cloud-native IoT platform on **AWS EC2** with **FastAPI microservices**, **ALB**
 
 #### AI CodeSense · *Python, FastAPI, React, LangChain, GPT-4 API, SonarQube, Docker, PostgreSQL* (July 2025)
 AI-assisted code reviews integrated with GitHub PRs. **LangChain RAG** adds project context; combines **SonarQube** static analysis → **~30%** better issue detection.  
-**Repo:** `ai-codesense` (private/placeholder) · **Focus:** LLM tooling, RAG, CI integration, code quality.
+**Repo:** `ai-codesense` ([private/placeholder](https://github.com/ramanavenky22/CodeSenseAI)) · **Focus:** LLM tooling, RAG, CI integration, code quality.
 
-> 💡 Once these repos are public, pin them so they appear on your profile.
 
 ---
 
