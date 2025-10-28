@@ -65,7 +65,7 @@ Full-stack Software Engineer building scalable, cloud-native apps and distribute
 
 #### Smart Home Cloud Platform · *AWS, Python FastAPI, React, PostgreSQL, MongoDB* (July 2025)
 Cloud-native IoT platform on **AWS EC2** with **FastAPI microservices**, **ALB**, **S3**, and **SQS** for scalable ingestion and processing. Hybrid **SQL + NoSQL** data model for events and ML logs. React dashboard for device management, AI alerts, and monitoring.  
-**Repo:** `smart-home-cloud` (private/placeholder) · **Focus:** microservices, infra-as-code, observability.
+**Repo:** `smart-home-cloud` · **Focus:** microservices, infra-as-code, observability.
 
 #### AI CodeSense · *Python, FastAPI, React, LangChain, GPT-4 API, SonarQube, Docker, PostgreSQL* (July 2025)
 AI-assisted code reviews integrated with GitHub PRs. **LangChain RAG** adds project context; combines **SonarQube** static analysis → **~30%** better issue detection.  
